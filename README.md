@@ -1,5 +1,5 @@
-# City Theme
-City Theme with font-awesome, bootstrap 4, sass, gulp 4 tasks, browserSync (with hot-reloading).
+# bootstrap-4-sass-gulp-4-boilerplate
+font-awesome, bootstrap 4, sass, gulp 4 tasks, browserSync (with hot-reloading).
 
 ## Pre-requisite
 - [Node.js](https://nodejs.org/en/download/ "Node Js")
@@ -14,10 +14,10 @@ Install Gulp cli
 ## Getting started
 
 1. Clone repository:
-`git clone https://github.com/krittiyaclark/city-theme.git`
+`git clone hhttps://github.com/krittiyaclark/bootstrap-4-sass-gulp-4-boilerplate.git`
 
 2. Change directory:
-`cd city`
+`cd bootstrap-4-sass-gulp-4-boilerplate`
     
 3. Install all dependencies and libraries:
    `npm install`
@@ -27,4 +27,4 @@ Install Gulp cli
 
   - `gulp dev`  - Starts a local server with browserSync and hot reloading on changes to files (HTML, SCSS, JS).
    
-# bootstrap-4-sass-gulp-4-boilerplate
+
