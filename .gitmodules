@@ -1,0 +1,6 @@
+[submodule "web-template-themes/city-theme"]
+	path = web-template-themes/city-theme
+	url = https://github.com/krittiyaclark/web-themes.git
+[submodule "web-themes"]
+	path = web-themes
+	url = https://github.com/krittiyaclark/web-themes.git
